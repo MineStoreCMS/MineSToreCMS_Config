@@ -1,1 +1,2 @@
-infrastructure_url: "https://minestorecms.com"
+production_url: "https://minestorecms.com"
+development_url: "http://experimental.minestorecms.com" 
